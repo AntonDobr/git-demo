@@ -18,7 +18,12 @@ Botox rein bis ins Gehirn
 4)ls
 5)cd git-demo/
  для создания документов через git вводить echo git-demo >> (название файла)file.log
-для создания ветки (branch) вводить git checkkout -b (название ветк)feature 
+для создания ветки (branch) вводить git checkkout -b (название ветк)feature
+ 
+переход с ветки на ветку git checkkout (название ветк)feature
 
 git gui& gitk&
+
+
+
 
