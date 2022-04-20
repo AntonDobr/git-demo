@@ -24,6 +24,8 @@ Botox rein bis ins Gehirn
 
 git gui& gitk&
 
+conflict 
+
 
 
 
