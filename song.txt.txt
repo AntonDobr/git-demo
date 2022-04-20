@@ -12,3 +12,9 @@ Schlauchboot basteln aus den Lippen
 In die Wangen, in die Stirn
 Botox rein bis ins Gehirn
 
+1)cb c/data/temp
+2)pwd
+3)git clone git@github.com:AntonDobr/git-demo.git
+4)ls
+
+
