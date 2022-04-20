@@ -17,4 +17,6 @@ Botox rein bis ins Gehirn
 3)git clone git@github.com:AntonDobr/git-demo.git
 4)ls
 5)cd git-demo/
+ для создания документов через git вводить echo git-demo >> (название файла)file.log
+для создания ветки (branch) вводить git checkkout -b (название ветк)feature 
 
