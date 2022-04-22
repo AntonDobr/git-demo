@@ -1,4 +1,4 @@
-song
+song.
 1)cb c/data/temp
 2)pwd
 3)git clone git@github.com:AntonDobr/git-demo.git
